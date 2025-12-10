@@ -1,1 +1,47 @@
+body {
+    background: url(nevis-vinyl-7874-in-architextures.jpg);
+    background-size: 70%;
+    padding:0%;
+    margin:0%;
+    height:100%
+    width:100%
+}
 
+#sky {
+    background: linear-gradient(rgb(96, 98, 99),rgb(82, 83, 85),rgb(86, 98, 107));
+    height: 60%;
+    width:100%;
+}
+
+
+#snowflake {
+    font-size:65px;
+    position:absolute;
+    top:20px;
+    left:20px;
+
+}
+
+#building-1 {
+    background:white;
+    height:60px;
+    width:80px;
+    position:absolute;
+    top:255px;
+    left:10px;
+} 
+
+#roof-1 {
+  border-bottom: 40px solid gainsboro;
+  border-left:40px solid transparent;
+  border-right:40px solid transparent;
+  position:relative;
+  bottom: 40px;
+} 
+
+#snowfall {
+    width: 200px;
+    position: absolute;
+    top: 80px;
+    right: 355px;
+}
